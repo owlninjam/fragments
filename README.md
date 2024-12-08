@@ -1,25 +1,92 @@
+# Fragments - Islamic AI Chat Interface
+
 <div align="center">
-  <img src="https://storage.googleapis.com/hume-public-logos/hume/hume-banner.png">
-  <h1>EVI Next.js App Router Example</h1>
+  <h1>🕌 Fragments</h1>
+  <p><em>A Modern Islamic AI Chat Experience</em></p>
 </div>
 
 ![preview.png](preview.png)
 
 ## Overview
 
-This project features a sample implementation of Hume's [Empathic Voice Interface](https://hume.docs.buildwithfern.com/docs/empathic-voice-interface-evi/overview) using Hume's React SDK. Here, we have a simple EVI that uses the Next.js App Router.
+Fragments is a beautifully crafted Islamic AI chat interface that combines modern design with traditional Islamic aesthetics. Built with Next.js and enhanced with elegant animations, it provides a unique and respectful platform for AI interactions.
 
-## Project deployment
+## Features
 
-Click the button below to deploy this example project with Vercel:
+- 🎨 Islamic-inspired UI design with geometric patterns
+- 🌙 Elegant dark mode support
+- ✨ Smooth animations and transitions
+- 📱 Fully responsive design
+- 🔊 Real-time voice interaction
+- 🖼️ Beautiful emerald color scheme
+- 🖋️ Arabic typography integration
+- ⚡ Built with Next.js App Router
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhumeai%2Fhume-evi-next-js-starter&env=HUME_API_KEY,HUME_SECRET_KEY)
+## Tech Stack
 
-Below are the steps to completing deployment:
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Radix UI Components
+- Voice Processing Capabilities
 
-1. Create a Git Repository for your project.
-2. Provide the required environment variables. To get your API key and Client Secret key, log into the portal and visit the [API keys page](https://beta.hume.ai/settings/keys).
+## Getting Started
 
-## Support
+1. Clone the repository:
+```bash
+git clone https://github.com/owlninjam/fragments.git
+```
 
-If you have questions, require assistance, or wish to engage in discussions pertaining to this starter template, [please reach out to us on Discord](https://link.hume.ai/discord).
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+3. Set up your environment variables:
+- Copy `.env.example` to `.env`
+- Add your required API keys
+
+4. Run the development server:
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) to see the result.
+
+## Project Structure
+
+- `/app` - Next.js app router pages and layouts
+- `/components` - Reusable UI components
+- `/utils` - Utility functions and helpers
+- `/public` - Static assets
+
+## Customization
+
+The interface can be customized through:
+- `tailwind.config.ts` - Theme and styling
+- `app/globals.css` - Global styles and animations
+- `components/*` - Individual component styling
+
+## Contributing
+
+Contributions are welcome! Feel free to submit issues and pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+<div align="center">
+  <p>Created with 💚 by <a href="https://github.com/owlninjam">@owlninjam</a></p>
+  <p>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
+</div>
