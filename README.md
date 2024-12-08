@@ -87,6 +87,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <p>Created with 💚 by <a href="https://github.com/owlninjam">@owlninjam</a></p>
+  <p>created by <a href="https://github.com/owlninjam">@owlninjam</a></p>
   <p>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
 </div>
