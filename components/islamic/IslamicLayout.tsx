@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react';
 import { motion } from 'framer-motion';
 import GeometricPattern from './GeometricPattern';
@@ -64,7 +66,7 @@ const IslamicLayout: React.FC<IslamicLayoutProps> = ({ children }) => {
           className="mt-8 text-center text-sm text-gray-600 dark:text-gray-400"
         >
           <p className="font-arabic mb-2">بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</p>
-          <p>© {new Date().getFullYear()} Fragments - Islamic Voice Interface</p>
+          <p> {new Date().getFullYear()} Fragments - Islamic Voice Interface</p>
         </motion.footer>
       </motion.div>
     </div>
