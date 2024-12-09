@@ -51,7 +51,7 @@ const PrayerTimes: React.FC = () => {
 
       // Using Hanafi method (2 is for Hanafi calculation)
       const response = await fetch(
-        `https://api.aladhan.com/v1/timings/${day}-${month}-${year}?latitude=${city.latitude}&longitude=${city.longitude}&method=2`
+        `https://api.aladhan.com/v1/timings/${day}-${month}-${year}?latitude=${city.latitude}&longitude=${city.longitude}&method=1`
       );
 
       if (!response.ok) {
