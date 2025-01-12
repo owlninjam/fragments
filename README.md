@@ -176,6 +176,6 @@ If you encounter any issues or have suggestions, please:
 ---
 
 <div align="center">
-  <p>Made with ❤️ for the Ummah</p>
+  <p>Made with care for the Ummah</p>
   <p>May Allah (ﷻ) accept this work and make it beneficial for all</p>
 </div>
